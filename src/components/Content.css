@@ -1,0 +1,16 @@
+.content{
+/*    border: 1px solid; */
+    
+    display: flex;
+}
+
+.content h1{
+    width: 150px;
+    height: 50px;
+}
+
+.content .btnTeste{
+    margin: 5px 5px 5px 5px;
+    width: 100px;
+    height: 100px;
+}

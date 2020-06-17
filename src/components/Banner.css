@@ -1,0 +1,10 @@
+.banner{
+/*    border: 1px solid; */
+    display: flex;
+    text-align: center;
+}
+
+.banner .imgBanner{
+    width: 75px;
+    height: 75px;
+}
